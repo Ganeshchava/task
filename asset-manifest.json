@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/task/static/css/main.a4a06b7e.css",
+    "main.js": "/task/static/js/main.7a9d32ba.js",
+    "static/media/get-inspired-travel-journaling-1-16x9_jpg": "/task/static/media/get-inspired-travel-journaling-1-16x9_19841a5e2751462ba1f483cbeb55032b.b7c787561e6bdbbcc898.jpg",
+    "static/media/travel-adventure-have-a-safe-trip-enjoy-every-moment-message-with-realistic-travel-items-like-hat-passport-camera-phone-watch-compass-MR0MMM.jpg": "/task/static/media/travel-adventure-have-a-safe-trip-enjoy-every-moment-message-with-realistic-travel-items-like-hat-passport-camera-phone-watch-compass-MR0MMM.d83323311a7b1424d6b4.jpg",
+    "static/media/travel-symbols-and-tourism-signs-vector-4557896.jpg": "/task/static/media/travel-symbols-and-tourism-signs-vector-4557896.5e5f62730e49e85ca60d.jpg",
+    "static/media/maxresdefault.jpg": "/task/static/media/maxresdefault.a3df24af800b8dd8f8f2.jpg",
+    "static/media/istockphoto-618545122-612x612.jpg": "/task/static/media/istockphoto-618545122-612x612.d17fc2715d250bc36e81.jpg",
+    "static/media/depositphotos_55072853-stock-photo-time-to-travel-wooden-sign.jpg": "/task/static/media/depositphotos_55072853-stock-photo-time-to-travel-wooden-sign.3ea804b15a4466039df6.jpg",
+    "static/media/images.jpg": "/task/static/media/images.8cf97e5cc4eb79c88228.jpg",
+    "index.html": "/task/index.html",
+    "main.a4a06b7e.css.map": "/task/static/css/main.a4a06b7e.css.map",
+    "main.7a9d32ba.js.map": "/task/static/js/main.7a9d32ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a06b7e.css",
+    "static/js/main.7a9d32ba.js"
+  ]
+}
